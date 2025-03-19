@@ -1,3 +1,0 @@
-/Users/matteovilla/Data/Esercitazione_1_IO/debug/CMakeFiles/MeanValue.dir
-/Users/matteovilla/Data/Esercitazione_1_IO/debug/CMakeFiles/edit_cache.dir
-/Users/matteovilla/Data/Esercitazione_1_IO/debug/CMakeFiles/rebuild_cache.dir
